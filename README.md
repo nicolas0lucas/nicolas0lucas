@@ -21,6 +21,12 @@
 
 Tenho 21 anos e sou graduando em Engenharia da Computação e Engenharia Florestal, com uma paixão por tecnologia e criatividade. Além disso, sou designer gráfico.
 
+## Últimos Projetos:
+
+- [Site do Lab de Sensoriamento Remoto - UFRPE](https://laser-ufrpe.firebaseapp.com/)
+
+- [Alguns dos meus mapas](https://drive.google.com/drive/folders/1fqkJkibsUQcESSofmXWqfeEt9vwKnzWX)
+
 
 
 
