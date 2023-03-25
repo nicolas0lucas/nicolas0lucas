@@ -13,13 +13,29 @@
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline-block">
+  <h3>FRONT-END<h3>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="html5"src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-   <img align="center" alt="html5"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img align="center" alt="html5"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img align="center" alt="html5"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img align="center" alt="html5"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" />  <img align="center" alt="html5"src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />   <img align="center" alt="html5"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  <img align="center" alt="html5"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />   <img align="center" alt="html5"src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />   <img align="center" alt="html5"src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> <img align="center" alt="html5"src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> <img align="center" alt="html5"src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" /> <img align="center" alt="html5"src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img align="center" alt="html5"src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+    <img align="center" alt="html5"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+     <img align="center" alt="html5"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+     <BR>
+  <h3>BACK-END<h3>
+    <img align="center" alt="html5"src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="center" alt="html5"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img align="center" alt="html5"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" />  <img align="center" alt="html5"src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />  <img align="center" alt="html5"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whi" />   <img align="center" alt="html5"src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<BR>
+<h3>BANCO DE DADOS<h3>
+<img align="center" alt="html5"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="html5"src="	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<BR>
+<h3>DESENVOLVIMENTO MOBILE<h3>
+<img align="center" alt="html5"src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> 
+<BR>
+<h3>FERRAMENTAS DE DESIGN E EDIÇÃO<h3> </h3><img align="center" alt="html5"src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> <img align="center" alt="html5"src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" /> <img align="center" alt="html5"src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img align="center" alt="html5"src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 </div>
 <br></br>
-
-Tenho 21 anos e sou graduando em Engenharia da Computação e Engenharia Florestal, com uma paixão por tecnologia e criatividade. Além disso, sou designer gráfico.
+<h3>SOBRE MIM!<h3>
+Olá! Meu nome é Nicolas Lucas, tenho 21 anos e sou graduando em duas áreas bem diferentes: Engenharia da Computação e Engenharia Florestal. Apesar de parecerem áreas opostas, tenho encontrado uma forma de unir esses conhecimentos em soluções criativas e inovadoras. Além disso, sou apaixonado por tecnologia e sempre busco aprender mais sobre o assunto. Como um hobby, gosto de criar designs gráficos, o que me permite unir minha paixão por tecnologia e criatividade. Estou sempre buscando desafios e novas oportunidades para me desenvolver pessoal e profissionalmente.
+<br>
+<br>
 
 ## Últimos Projetos:
 
