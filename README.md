@@ -8,7 +8,7 @@
 [![APP](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)]()
 [![APP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=5581989861783)
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas0lucas&show_icons=true&theme=radical&locale=pt-br)
+
 
 ## Tecnologias que eu uso no meu dia
 
