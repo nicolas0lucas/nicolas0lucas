@@ -35,11 +35,13 @@ Olá! Meu nome é Nicolas Lucas, tenho 22 anos e sou graduando em duas áreas be
 
 ## Últimos Projetos:
 
-- [Site do Lab de Sensoriamento Remoto - UFRPE](https://laser-ufrpe.firebaseapp.com/)
+- [Site do Laboratório de Sensoriamento Remoto - UFRPE](https://laser-ufrpe.firebaseapp.com/)
 
 - [Alguns dos meus mapas](https://drive.google.com/drive/folders/1fqkJkibsUQcESSofmXWqfeEt9vwKnzWX)
 
+- [NICS - Soluções tecnológicas e MSI](https://)
 
+- [EvapoGIS - Plugin para o QGIS](https://)
 
 
 
