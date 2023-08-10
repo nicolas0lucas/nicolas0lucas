@@ -41,7 +41,7 @@ Olá! Meu nome é Nicolas Lucas, tenho 22 anos e sou graduando em duas áreas be
 
 - [NICS - Soluções tecnológicas e MSI](https://nics-17697.web.app)
 
-- [EvapoGIS - Plugin para o QGIS]([https://](https://evapogis-9174d.web.app/)https://evapogis-9174d.web.app/)
+- [EvapoGIS - Plugin para o QGIS]((https://evapogis-9174d.web.app/)https://evapogis-9174d.web.app/)
 
 
 
