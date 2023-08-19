@@ -28,6 +28,11 @@
 <BR>
 <h3>FERRAMENTAS DE DESIGN E EDIÇÃO<h3> </h3><img align="center" alt="html5"src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> <img align="center" alt="html5"src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" /> <img align="center" alt="html5"src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img align="center" alt="html5"src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 </div>
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas0lucas&layout=compact)
+
 <br></br>
 <h3>SOBRE MIM!<h3>
 Olá! Meu nome é Nicolas Lucas, tenho 22 anos e sou graduando em duas áreas bem diferentes: Engenharia da Computação e Engenharia Florestal. Apesar de parecerem áreas opostas, tenho encontrado uma forma de unir esses conhecimentos em soluções criativas e inovadoras. Além disso, possuo o curso em Designer gráfico e o curso técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e sempre busco aprender mais sobre o assunto. Estou sempre buscando desafios e novas oportunidades para me desenvolver pessoal e profissionalmente.
