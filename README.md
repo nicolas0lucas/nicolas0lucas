@@ -2,8 +2,8 @@
 ### Olá! Eu sou o Nicolas Lucas 👋
 
 [![UFRPE Devs badge](https://raw.githubusercontent.com/ufrpe-devs/comunidade/main/media/ufrpe-devs-badge.svg)](https://github.com/ufrpe-devs/comunidade)
-  <a href="https://github.com/ifpe-open-source/website/blob/master/LICENSE" target="_blank">
-    <img alt="License" src="https://img.shields.io/badge/licença-MIT-brightgreen"/>
+  <a href="https://github.com/ifpe-open-source/website/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/ifpe-open-source/website">
   </a>
 [![Site](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://nicolas-lucas.web.app/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/nicolaslucaslima/)
