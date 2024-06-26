@@ -35,7 +35,7 @@
 
 <br></br>
 <h3>SOBRE MIM!<h3>
-Olá! Meu nome é Nicolas Lucas, sou graduando em duas áreas bem diferentes: Engenharia da Computação e Engenharia Florestal. Apesar de parecerem áreas opostas, tenho encontrado uma forma de unir esses conhecimentos em soluções criativas e inovadoras. Além disso, possuo o curso em Téc. Designer gráfico. Sou apaixonado por tecnologia e sempre busco aprender mais sobre o assunto. Estou sempre buscando desafios e novas oportunidades para me desenvolver pessoal e profissionalmente.
+Olá! Meu nome é Nicolas Lucas, sou graduando em duas áreas bem diferentes: Engenharia da Computação e Engenharia Florestal. Apesar de parecerem áreas opostas, tenho encontrado uma forma de unir esses conhecimentos em soluções criativas e inovadoras. Além disso, possuo o curso em Designer gráfico. Sou apaixonado por tecnologia e sempre busco aprender mais sobre o assunto. Estou sempre buscando desafios e novas oportunidades para me desenvolver pessoal e profissionalmente.
 <br>
 <br>
 
