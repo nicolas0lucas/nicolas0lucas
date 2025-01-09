@@ -44,8 +44,6 @@ Olá! Meu nome é Nicolas Lucas, sou graduando em duas áreas bem diferentes: En
 
 - [Alguns dos meus mapas](https://drive.google.com/drive/folders/1fqkJkibsUQcESSofmXWqfeEt9vwKnzWX)
 
-- [NICS - Soluções tecnológicas e MSI](https://nics-17697.web.app)
-
 - [EvapoGIS - Plugin para o QGIS](https://evapogis-9174d.web.app/)
 
 
